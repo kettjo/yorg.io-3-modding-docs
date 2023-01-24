@@ -2,6 +2,8 @@
 
 This documentation is supposed to teach you how to write mods for YORG.io 3.
 
+yello mellow
+
 ## Writing Mods
 
 ### Getting started
